@@ -1,20 +1,20 @@
 # AI_VISUAL_POSTURE_MONITORING_SYSTEM_REPO
 A real-time AI posture monitoring system built with OpenCV and MediaPipe to prevent back pain.
 
-OVERVIEW & FEATURES 
+###OVERVIEW & FEATURES 
 
 It is a real-time AI posture monitoring system built using python , opencv , mediapipe from google.
 
 So this is basically a program i developed to solve a problem I faced oftenly : My bad sitting posture hurts my back . So I use the AI model from media pipe to help monitoring my body posture based on algorithem i came up with so that it gives warning  when it identifies my bad body posture.
 
-HOW IT WORKS 
+###HOW IT WORKS 
 
 The algorithem identifies bad posture by measuring the vertical distance between the midpoint of the ears and shoulders. It determines bad posture by comparing this distance with a preadjusted threshold (which can be adjusted based on your own computer/table angle relative to your body /chair as well.)
 
 I spent alot of time to do this project , I'm not really that satisfied with it , but that is mostly due to limitation of hardware rather than code.  Anyway , it works !  
 
 
-INSTALLATION
+###INSTALLATION
 
 In order to run this program , firstly copy the code to your whatever IDE you have.
 Type the following to your terminal :
